@@ -5,7 +5,7 @@
 
 ・Windows SDK 10.0
 # Building
-Microsoft Visual Studio 2022 (v143) で JPN 20141104.sln 開き、プラットフォームを選択してRelease x86をクリックしてBuild。
+Microsoft Visual Studio 2022 (v143) で JPN 20141104.sln 開き、プラットフォームを選択してRelease x86をクリックしてビルド。
 # Note
 このプロジェクトは、CSO JPN 20141104 向けに特別に開発されました
 
