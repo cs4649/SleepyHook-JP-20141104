@@ -1,17 +1,13 @@
-## Requirements
+# 要件
+・Microsoft Visual Studio 2022 (v143)
 
-- Microsoft Visual Studio 2022 (v143)
-- Desktop development with C++
-- Windows SDK 10.0
-- [`HackShield-Emulator`](https://github.com/Huan912/HackShield-Emulator)
+・C++によるデスクトップ開発
 
-## Building
-
-1. Open `SleepyHook Plus TW 2013.sln` with Microsoft Visual Studio 2022 (v143), then select the platform `Release` `x86` and click `Build`.
-
-## Note
-
-This project is specifically developed for CSO TW 2013 (Exe build: 10:35:19 Jun  4 2013)
+・Windows SDK 10.0
+# Building
+Microsoft Visual Studio 2022 (v143) で JPN 20141104.sln 開き、プラットフォームを選択してRelease x86をクリックしてBuild。
+# Note
+このプロジェクトは、CSO JPN 20141104 向けに特別に開発されました
 
 If you're interested in learning about server emulator development, you can refer to [`cso-master-server`](https://github.com/SmilexGamer/cso-master-server).
 
