@@ -9,7 +9,7 @@ Microsoft Visual Studio 2022 (v143) で JPN 20141104.sln 開き、プラット�
 # Note
 このプロジェクトは、CSO JPN 20141104 向けに特別に開発されました
 
-If you're interested in learning about server emulator development, you can refer to [`cso-master-server`](https://github.com/SmilexGamer/cso-master-server).
+サーバーエミュレータの開発について学びたい場合は、以下を参照してください。 [`cso-master-server`](https://github.com/SmilexGamer/cso-master-server).
 
 ## License
 
